@@ -1,0 +1,10 @@
+2025-04-10 14:36:17,763 - ERROR - Błąd skanowania: module 'docker' has no attribute 'from_client'
+2025-04-10 14:39:17,399 - ERROR - Błąd skanowania: can't subtract offset-naive and offset-aware datetimes
+2025-04-10 14:40:58,816 - ERROR - Błąd skanowania: can't subtract offset-naive and offset-aware datetimes
+2025-04-10 14:44:01,269 - ERROR - Błąd skanowania: can't subtract offset-naive and offset-aware datetimes
+2025-04-10 14:45:41,711 - INFO - Przeskanowano: alpine:latest, wiek: 55, porty: {}, user: 
+2025-04-10 14:45:41,711 - INFO - Przeskanowano: nginx:latest, wiek: 63, porty: {'80/tcp': {}}, user: 
+2025-04-10 14:47:32,342 - INFO - Przeskanowano: alpine:latest, wiek: 55, porty: {}, user: 
+2025-04-10 14:47:32,343 - INFO - Przeskanowano: nginx:latest, wiek: 63, porty: {'80/tcp': {}}, user: 
+2025-04-11 18:04:20,504 - INFO - Przeskanowano: alpine:latest, wiek: 56, porty: {}, user: root (domyślny)
+2025-04-11 18:04:20,504 - INFO - Przeskanowano: nginx:latest, wiek: 64, porty: {'80/tcp': {}}, user: root (domyślny)
